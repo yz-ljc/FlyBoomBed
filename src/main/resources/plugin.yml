@@ -1,0 +1,7 @@
+name: FlyBoomBed
+version: '1.0-SNAPSHOT'
+main: top.yzljc.flyBoomBed.FlyBoomBed
+api-version: '1.21'
+authors: [ YZ_Ljc_ ]
+description: 炸龙，但是床是飞起来的
+website: https://space.bilibili.com/592616376
